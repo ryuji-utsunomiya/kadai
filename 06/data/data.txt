@@ -1,0 +1,42 @@
+2017-01-21 08:13:38文字列
+2017-01-21 08:13:47文字列
+2017-01-21 08:13:49文字列
+,
+
+aaaa,dddd
+
+aaaa,dddd
+
+aaaa,dddd
+
+aaaa,dddd
+
+aa,aaff
+aa,aaff
+aa,aaff
+,
+,
+,
+,
+,
+aa,aa
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,,,,
+,,,,
+aa,aaaa,aaa,aa,aa
+,,,,
+aa,aaaa,aaa,aa,aa
+aa,aaaa,aaa,aa,aa
+,,,,
+,,,,
+,,,,
+,,aa,,
+,,,,11

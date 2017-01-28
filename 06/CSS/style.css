@@ -1,0 +1,10 @@
+body {
+
+}
+
+#current_member {
+    height: 100px;
+    width: 300px;
+    overflow: hidden;
+    border: 1px solid black;
+}
